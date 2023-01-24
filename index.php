@@ -14,7 +14,7 @@
 				<div class="carousel-item active">
 					<a href="#">
 						<p><b>Lorem ipsum dolor</b>: sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua.</p>
+							tempeor incididunt ut labore et dolore magna aliqua.</p>
 					</a>
 				</div>
 				<div class="carousel-item">
