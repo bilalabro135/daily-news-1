@@ -19,7 +19,7 @@
 				</div>
 				<div class="carousel-item">
 					<a href="#">
-						<p><b>Loroem ipsum dolor</b>: sit amet, consectetur adipisicing elit, sed do eiusmod
+						<p><b>Loroem ipsusm dolor</b>: sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua.</p>
 					</a>
 				</div>
